@@ -37,7 +37,7 @@ Hosts- People putting up their place for rental purpose.
 Users- People searching for accommodation.
 
 Our storyboard has been categorized into four categories-
-a)	Overview of Airbnb
-b)	Property analysis
-c)	Pricing analysis
-d)	Host analysis
+1.	Overview of Airbnb
+2.	Property analysis
+3.	Pricing analysis
+4.	Host analysis
